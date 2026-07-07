@@ -1,0 +1,6 @@
+{
+  "name": "Nap-Time Prioritizer",
+  "description": "An interactive parenting companion that curates supportive, energy-matched, and toddler-supervised activities for busy parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
